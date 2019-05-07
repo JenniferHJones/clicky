@@ -5,8 +5,6 @@ import Header from "./components/Header/Header";
 import Jumbotron from "./components/Jumbotron/Jumbotron";
 import ImageCard from "./components/ImageCard/ImageCard";
 import Footer from "./components/Footer/Footer";
-// import "./App.css";
-// test comment
 
 class App extends React.Component {
   state = {

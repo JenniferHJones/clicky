@@ -8,7 +8,7 @@ This memory game challenges the user to click on unique images while the game sh
 
 ## Live Demo
 
-This application is deployed to [Heroku](https://damp-garden-72064.herokuapp.com/)
+This application is deployed to [Heroku](https://morning-beach-93852.herokuapp.com/)
 
 ---
 
